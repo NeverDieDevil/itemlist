@@ -4,6 +4,8 @@ title: Store
 store: true
 ---
 
+{% include default/head.liquid %}
+
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
 {%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Animal" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
