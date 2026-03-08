@@ -68,7 +68,10 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
+#theme: type-on-strap
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
 markdown: kramdown
 sass:
   style: compressed
