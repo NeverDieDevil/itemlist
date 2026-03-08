@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.4.2.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  }
+]
