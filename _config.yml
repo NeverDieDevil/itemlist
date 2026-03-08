@@ -79,4 +79,9 @@ sass:
 permalink: pretty
 
 exclude:
+  - vendor/
+  - .bundle/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
   - build-scripts
